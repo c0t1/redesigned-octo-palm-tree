@@ -1,2 +1,2 @@
-# redesigned-octo-palm-tree
-public
+# redesigned-octo-palm-tree  
+Hello 🌏
